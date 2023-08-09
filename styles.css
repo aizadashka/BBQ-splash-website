@@ -23,7 +23,7 @@ h2 {
 }
 
 p {
-    font-size: 1.125rem;
+    font-size: 1.5rem;
     line-height: 1.35;
 }
 
@@ -41,6 +41,11 @@ p {
 .subheading {
     text-transform: uppercase;
     color: #fc9e32;
+}
+
+.beta-text,
+.top-text {
+    -webkit-text-stroke: 0.5px white;
 }
 
 h1,
